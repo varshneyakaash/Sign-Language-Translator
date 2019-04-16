@@ -1,2 +1,11 @@
-# Sign-Language-Translator
-Sign Language Translator system is for deaf and mute people. The sign language used is American Sign Language. 
+# openCV
+Scripts written for learning openCV
+
+For Running Snippets
+- create virtualenv with python3.5
+- `pip install opencv-contrib-python`
+
+#### Content
+- Face Lock
+- Digit Recongnisation
+- ORB detector
